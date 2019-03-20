@@ -16,7 +16,7 @@ public class NestedForX {
             }//for i
             System.out.println();
         }//forj
-        
+
     } //main
 
 } //class
