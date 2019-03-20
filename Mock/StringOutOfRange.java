@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by Cristiana Costa
  * on 2019-03-19
- * Program to count the ocurrences of uppercase letters that lie out of a defined range
+ * Program to count the occurrence of uppercase letters that lie out of a defined range
  */
 
 public class StringOutOfRange {

@@ -42,7 +42,7 @@ public class CountUpperLetters {
         String stringEntered = getASentence();
         int stringUppers = countUppers(stringEntered);
         printResults(stringEntered, stringUppers);
-        
+
     } //main
 
 } //class
